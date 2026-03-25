@@ -1,2 +1,20 @@
 # Self-Introduction
-Self-introduction video for academic internal evaluation
+
+Hello, I am Pooja, a second-year BTech student in Computer Science Engineering with a specialization in AI and Machine Learning.
+
+This repository contains my self-introduction video created for academic internal evaluation.
+
+# About Me
+- Learning Java and Data Structures & Algorithms
+- Practicing Python programming
+- Improving problem-solving skills
+
+# Video
+[Watch my introduction video](intro.mp4)
+
+# Goal
+To build strong programming fundamentals and grow as a software developer.
+
+---
+
+This repository represents my learning journey.
