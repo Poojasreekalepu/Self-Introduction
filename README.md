@@ -10,11 +10,9 @@ This repository contains my self-introduction video created for academic interna
 - Improving problem-solving skills
 
 # Video
-[Watch my introduction video](intro.mp4)
+watch my introduction video in the files I uploaded
 
 # Goal
 To build strong programming fundamentals and grow as a software developer.
-
----
 
 This repository represents my learning journey.
